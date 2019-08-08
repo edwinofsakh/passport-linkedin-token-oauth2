@@ -1,3 +1,6 @@
+# Attention
+This fork try use [LinkedIn API v2](https://docs.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/sign-in-with-linkedin). This implementation expect `r_liteprofile` and `r_emailaddress` scopes.
+
 # Passport-Linkedin-Token-OAuth2
 
 [Passport](http://passportjs.org/) strategy for authenticating with [Linkedin](http://www.linkedin.com/)
